@@ -21,7 +21,7 @@ export default function Home() {
 
       <div className="flex flex-row justify-center">
         <p>
-          <a href="www.wa.me/96103416562">
+          <a href="https://www.wa.me/96103416562">
             {" "}
             <Image
               src="https://img.icons8.com/color/48/null/whatsapp--v6.png"
